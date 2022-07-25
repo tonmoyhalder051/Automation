@@ -27,10 +27,15 @@ The project uses the following:
 ## Project Architecture
 
 Config
+
 Data
+
 Driver
+
 Page
+
 Report
+
 Test
 
 ## Config
