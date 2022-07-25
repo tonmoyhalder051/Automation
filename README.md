@@ -1,6 +1,6 @@
 # Automation Project Description
 
-# Project Name:Rokomari.com
+# Project Name: Rokomari.com
 
 ## Languages and Frameworks
 
@@ -54,7 +54,5 @@ The project uses Page Object Model to capture all the relevant UI components and
 
 The project uses Extent Reports to provide test reporting functionalities. The report package contains the relevant class.
 
-Test Cases
-
-Module Name_1
-Module Name_2
+## Test Cases
+TC_001_PlaceOrder
