@@ -1,4 +1,4 @@
-#Automation Project Description
+# Automation Project Description
 
 # Project Name:Rokomari.com
 
@@ -7,13 +7,21 @@
 The project uses the following:
 
 *Java 11 as the programming language.
+
 *Selenium WebDriver as the web browser automation framework using the Java binding.
+
 *WebDriverManager as the browser driver management library.
+
 *TestNG as the testing framework.
+
 *AssertJ as the assertion library.
+
 *Owner to minimize the code to handle properties file.
+
 *Extent Reports as the test reporting strategy.
+
 *Mavan as Build Management tool
+
 *Eclips as the IDE.
 
 ## Project Architecture
